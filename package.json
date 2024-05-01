@@ -1,0 +1,23 @@
+{
+  "name": "pindie_2.0",
+  "version": "1.0.0",
+  "description": "homework",
+  "main": "app.js",
+  "scripts": {
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Vetochka38/Pindie-2.0.git"
+  },
+  "author": "Vetochka38",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Vetochka38/Pindie-2.0/issues"
+  },
+  "homepage": "https://github.com/Vetochka38/Pindie-2.0#readme",
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
